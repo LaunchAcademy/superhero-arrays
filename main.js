@@ -48,7 +48,6 @@ console.log("The leaders array: ", summonLeaders(teams))
 // => ["Iron Man", "Superman", "Professor X", "Star Lord"]
 
 // 4.
-console.log("The current teams order: ", teams)
 rotateTeams()
 console.log("The new teams order after rotation: ", teams)
 
